@@ -1,4 +1,4 @@
-![Направления работы](./assets/profile-banner.svg?v=2)
+![Направления работы](./assets/profile-banner-purple.svg)
 
 ## Проекты
 
