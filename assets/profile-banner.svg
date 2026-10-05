@@ -1,19 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-<title id="title">Ирина Валаева</title>
-<desc id="desc">Имя на тёмном фоне; справа абстрактный маршрут и связанные точки.</desc>
-<rect width="1200" height="280" fill="#202923"/>
-<path d="M0 279H1200" stroke="#9BAA96" stroke-opacity=".22"/>
-<path d="M680 42V238" stroke="#E7E9DB" stroke-opacity=".18"/>
-<text x="64" y="164" fill="#F3F0E7" font-family="Georgia,'Times New Roman',serif" font-size="74" letter-spacing="-1.7">Ирина Валаева</text>
-<path d="M735 214C779 208 804 185 828 153S881 98 916 125 962 206 1014 184 1081 105 1150 68" fill="none" stroke="#C7D0BB" stroke-opacity=".25" stroke-width="1.4"/>
-<path d="M736 220C787 222 823 195 847 157 872 118 908 80 954 82 1001 84 1005 160 1042 163 1088 167 1118 125 1157 118" fill="none" stroke="#BCCAAC" stroke-opacity=".25" stroke-width="1.4"/>
-<path d="M739 205C782 206 802 196 828 153 853 111 886 69 929 72 985 75 1003 145 1042 163 1080 180 1118 160 1154 114" fill="none" stroke="#E7A17A" stroke-width="4" stroke-linecap="round"/>
-<circle cx="739" cy="205" r="7" fill="#202923" stroke="#E7A17A" stroke-width="3"/>
-<circle cx="828" cy="153" r="5.5" fill="#E7A17A"/>
-<circle cx="929" cy="72" r="8" fill="#202923" stroke="#E7A17A" stroke-width="3"/>
-<circle cx="1042" cy="163" r="6" fill="#E7A17A"/>
-<circle cx="1154" cy="114" r="7" fill="#202923" stroke="#E7A17A" stroke-width="3"/>
-<circle cx="916" cy="125" r="3" fill="#BCCAAC" fill-opacity=".65"/>
-<circle cx="1014" cy="184" r="3" fill="#BCCAAC" fill-opacity=".65"/>
-<circle cx="1150" cy="68" r="3" fill="#BCCAAC" fill-opacity=".65"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Направления работы</title>
+<desc id="desc">Продакт-менеджмент, UI/UX-дизайн, frontend-разработка, прототипирование, дизайн-системы, адаптивная вёрстка, разработка приложений и ИИ-продукты.</desc>
+<rect width="1200" height="300" fill="#271345"/>
+<path d="M0 0H1200V300H0Z" fill="none" stroke="#4D3078" stroke-width="8"/>
+<path d="M641 35V265" stroke="#AA82D8" stroke-opacity=".48"/>
+<path d="M1080 -68C994 45 1047 102 1168 163S1232 265 1088 338" fill="none" stroke="#593580" stroke-width="72" stroke-opacity=".42"/>
+<path d="M1044 -40C958 72 1039 125 1149 178S1194 263 1092 330" fill="none" stroke="#9B6BCC" stroke-width="2" stroke-opacity=".65"/>
+<g fill="#F8F1FF" font-family="Arial,Helvetica,sans-serif" font-weight="700">
+<text x="57" y="83" font-size="43" letter-spacing="-1.6">Продакт-менеджмент</text>
+<text x="57" y="159" font-size="54" letter-spacing="-2.2">UI/UX-дизайн</text>
+<text x="57" y="232" font-size="44" letter-spacing="-1.7">Frontend-разработка</text>
+</g>
+<path d="M58 104H575M58 180H575M58 254H575" stroke="#7753A5" stroke-opacity=".7"/>
+<g fill="#DCC6FA" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="500" letter-spacing="-.45">
+<text x="685" y="59">Прототипирование</text>
+<text x="685" y="111">Дизайн-системы</text>
+<text x="685" y="163">Адаптивная вёрстка</text>
+<text x="685" y="215">Разработка приложений</text>
+<text x="685" y="267">ИИ-продукты</text>
+</g>
+<g fill="#B98AEF"><circle cx="665" cy="50" r="3"/><circle cx="665" cy="102" r="3"/><circle cx="665" cy="154" r="3"/><circle cx="665" cy="206" r="3"/><circle cx="665" cy="258" r="3"/></g>
 </svg>
