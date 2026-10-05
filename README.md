@@ -1,16 +1,31 @@
-## Hi there 👋
+![Ирина Валаева — продакт-менеджмент, frontend и UI/UX](./assets/profile-banner.svg)
 
-<!--
-**kiolymi/kiolymi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Привет! Я Ирина 👋
 
-Here are some ideas to get you started:
+Соединяю продуктовый взгляд, дизайн интерфейсов и frontend-разработку. Мне важно, чтобы цифровой продукт решал понятную задачу, был удобным для людей и аккуратно реализован.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Мой фокус:** продуктовые сценарии · UI/UX · адаптивные интерфейсы · командная работа
+
+---
+
+### Избранные проекты
+
+#### [Simple CRM — продуктовый дизайн и многостраничный лендинг](https://github.com/kiolymi/SimpleCRM_Landing)
+
+Концепция мобильной CRM для работы с клиентами: сценарии, дизайн-система и 25 экранов приложения. Для презентации продукта создан адаптивный многостраничный сайт с анимацией, страницами продукта, тарифов и поддержки.
+
+[Репозиторий и описание](https://github.com/kiolymi/SimpleCRM_Landing) · [Макет в Figma](https://www.figma.com/design/CHi07sT4Waf6uIkl14hYjN/Simple-CRM?node-id=25-13)
+
+#### [AI Stylist — командный AI-продукт](https://github.com/MaximB0nd/ai-stylist)
+
+Приложение с AI-стилистом. Мой вклад в командный проект — frontend и UI/UX: визуальная доработка интерфейса, экранов профиля и генерации, общих элементов десктопной версии.
+
+[Репозиторий команды](https://github.com/MaximB0nd/ai-stylist) · [Примеры моего вклада](https://github.com/MaximB0nd/ai-stylist/pulls?q=is%3Apr+author%3Akiolymi)
+
+---
+
+### Как я работаю
+
+От пользовательской задачи и структуры сценария — к макету, интерфейсу и проверке результата. В проектах использую Figma, HTML, CSS, JavaScript и GitHub для совместной разработки.
+
+[Смотреть все репозитории →](https://github.com/kiolymi?tab=repositories)
