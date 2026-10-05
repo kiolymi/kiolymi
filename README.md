@@ -1,31 +1,31 @@
-![Ирина Валаева — продакт-менеджмент, frontend и UI/UX](./assets/profile-banner.svg)
+![Ирина Валаева — портфолио](./assets/profile-banner.svg)
 
-### Привет! Я Ирина 👋
+## Проекты
 
-Соединяю продуктовый взгляд, дизайн интерфейсов и frontend-разработку. Мне важно, чтобы цифровой продукт решал понятную задачу, был удобным для людей и аккуратно реализован.
+### [Simple CRM](https://github.com/kiolymi/SimpleCRM_Landing)
 
-**Мой фокус:** продуктовые сценарии · UI/UX · адаптивные интерфейсы · командная работа
+Спроектировала мобильную CRM: сценарии, дизайн-систему и 25 экранов. Сделала адаптивный многостраничный лендинг для презентации продукта.
 
----
+[Код лендинга](https://github.com/kiolymi/SimpleCRM_Landing) · [Макет в Figma](https://www.figma.com/design/CHi07sT4Waf6uIkl14hYjN/Simple-CRM?node-id=25-13)
 
-### Избранные проекты
+### [AI Stylist](https://github.com/MaximB0nd/ai-stylist) · командный проект
 
-#### [Simple CRM — продуктовый дизайн и многостраничный лендинг](https://github.com/kiolymi/SimpleCRM_Landing)
+Разрабатывала и дорабатывала frontend: страницу генерации, профиль, общую сетку и визуальные стили. [Мои pull requests](https://github.com/MaximB0nd/ai-stylist/pulls?q=is%3Apr+author%3Akiolymi).
 
-Концепция мобильной CRM для работы с клиентами: сценарии, дизайн-система и 25 экранов приложения. Для презентации продукта создан адаптивный многостраничный сайт с анимацией, страницами продукта, тарифов и поддержки.
+### [НейроЭксперт / AI Checker](https://github.com/sqtwix/ai-checker) · командный проект
 
-[Репозиторий и описание](https://github.com/kiolymi/SimpleCRM_Landing) · [Макет в Figma](https://www.figma.com/design/CHi07sT4Waf6uIkl14hYjN/Simple-CRM?node-id=25-13)
+Платформа для анализа результатов тестирования. Мой вклад — исправления локального анализа и отчётов, включая навигацию и экспорт PDF. [Коммит](https://github.com/sqtwix/ai-checker/commit/8255742dbbf41c00078d25d9db483336bf075340).
 
-#### [AI Stylist — командный AI-продукт](https://github.com/MaximB0nd/ai-stylist)
+### [MuseumApp](https://github.com/kiolymi/MuseumApp)
 
-Приложение с AI-стилистом. Мой вклад в командный проект — frontend и UI/UX: визуальная доработка интерфейса, экранов профиля и генерации, общих элементов десктопной версии.
+Настольное приложение на WPF и PostgreSQL: каталог, билеты, формы редактирования и доступ по ролям.
 
-[Репозиторий команды](https://github.com/MaximB0nd/ai-stylist) · [Примеры моего вклада](https://github.com/MaximB0nd/ai-stylist/pulls?q=is%3Apr+author%3Akiolymi)
+## Командные проекты с закрытым кодом
 
----
+**Graph Algo.** Сделала модуль образовательной траектории: он строит порядок изучения тем по зависимостям и показывает критический путь. Репозиторий закрыт.
 
-### Как я работаю
+**AI Society Simulator.** Командный прототип мультиагентной симуляции. Репозиторий закрыт.
 
-От пользовательской задачи и структуры сценария — к макету, интерфейсу и проверке результата. В проектах использую Figma, HTML, CSS, JavaScript и GitHub для совместной разработки.
+## Другие командные работы
 
-[Смотреть все репозитории →](https://github.com/kiolymi?tab=repositories)
+[AI Review Analyzer](https://github.com/sqtwix/ai-review-analyzer) — система для анализа отзывов из таблиц. Участвовала в команде проекта.
