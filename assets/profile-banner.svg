@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc"><title id="title">Ирина Валаева</title><desc id="desc">Продакт-менеджмент, интерфейсы, frontend</desc><rect width="1200" height="280" fill="#F5F2EC"/><rect width="10" height="280" fill="#B95844"/><path d="M58 58H1142M58 238H1142" stroke="#C8C4BC" stroke-width="1"/><text x="60" y="43" fill="#8D4438" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2.6">ИРИНА ВАЛАЕВА / ПОРТФОЛИО</text><text x="1140" y="43" text-anchor="end" fill="#777772" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.6">GITHUB</text><text x="58" y="161" fill="#202722" font-family="Georgia,'Times New Roman',serif" font-size="76" font-weight="400" letter-spacing="-1.4">Ирина Валаева</text><text x="61" y="213" fill="#3F4944" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing=".25">Продакт-менеджмент</text><circle cx="345" cy="206" r="3" fill="#B95844"/><text x="365" y="213" fill="#3F4944" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing=".25">UI/UX</text><circle cx="454" cy="206" r="3" fill="#B95844"/><text x="474" y="213" fill="#3F4944" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing=".25">frontend</text><text x="1140" y="264" text-anchor="end" fill="#9A9A93" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1">ПРОЕКТЫ И ВКЛАД</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Ирина Валаева</title>
+<desc id="desc">Имя на тёмном фоне; справа абстрактный маршрут и связанные точки.</desc>
+<rect width="1200" height="280" fill="#202923"/>
+<path d="M0 279H1200" stroke="#9BAA96" stroke-opacity=".22"/>
+<path d="M680 42V238" stroke="#E7E9DB" stroke-opacity=".18"/>
+<text x="64" y="164" fill="#F3F0E7" font-family="Georgia,'Times New Roman',serif" font-size="74" letter-spacing="-1.7">Ирина Валаева</text>
+<path d="M735 214C779 208 804 185 828 153S881 98 916 125 962 206 1014 184 1081 105 1150 68" fill="none" stroke="#C7D0BB" stroke-opacity=".25" stroke-width="1.4"/>
+<path d="M736 220C787 222 823 195 847 157 872 118 908 80 954 82 1001 84 1005 160 1042 163 1088 167 1118 125 1157 118" fill="none" stroke="#BCCAAC" stroke-opacity=".25" stroke-width="1.4"/>
+<path d="M739 205C782 206 802 196 828 153 853 111 886 69 929 72 985 75 1003 145 1042 163 1080 180 1118 160 1154 114" fill="none" stroke="#E7A17A" stroke-width="4" stroke-linecap="round"/>
+<circle cx="739" cy="205" r="7" fill="#202923" stroke="#E7A17A" stroke-width="3"/>
+<circle cx="828" cy="153" r="5.5" fill="#E7A17A"/>
+<circle cx="929" cy="72" r="8" fill="#202923" stroke="#E7A17A" stroke-width="3"/>
+<circle cx="1042" cy="163" r="6" fill="#E7A17A"/>
+<circle cx="1154" cy="114" r="7" fill="#202923" stroke="#E7A17A" stroke-width="3"/>
+<circle cx="916" cy="125" r="3" fill="#BCCAAC" fill-opacity=".65"/>
+<circle cx="1014" cy="184" r="3" fill="#BCCAAC" fill-opacity=".65"/>
+<circle cx="1150" cy="68" r="3" fill="#BCCAAC" fill-opacity=".65"/>
+</svg>
