@@ -2,10 +2,10 @@
 
 ## Проекты
 
-### [Simple CRM](https://github.com/kiolymi/SimpleCRM_Landing)
+### Simple CRM
 Спроектировала мобильную CRM: сценарии, дизайн-систему и 25 экранов. Сделала адаптивный многостраничный лендинг для презентации продукта.
 
-[Код лендинга](https://github.com/kiolymi/SimpleCRM_Landing) · [Макет в Figma](https://www.figma.com/design/CHi07sT4Waf6uIkl14hYjN/Simple-CRM?node-id=25-13)
+[Смотреть лендинг](https://kiolymi.github.io/SimpleCRM_Landing/)
 
 ### [AI Stylist](https://github.com/MaximB0nd/ai-stylist) · командный проект
 Разрабатывала и дорабатывала frontend: страницу генерации, профиль, общую сетку и визуальные стили. [Мои pull requests](https://github.com/MaximB0nd/ai-stylist/pulls?q=is%3Apr+author%3Akiolymi).
