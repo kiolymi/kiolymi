@@ -7,8 +7,8 @@
 
 [Смотреть лендинг](https://kiolymi.github.io/SimpleCRM_Landing/)
 
-### [AI Stylist](https://github.com/MaximB0nd/ai-stylist) · командный проект
-Разрабатывала и дорабатывала frontend: страницу генерации, профиль, общую сетку и визуальные стили. [Мои pull requests](https://github.com/MaximB0nd/ai-stylist/pulls?q=is%3Apr+author%3Akiolymi).
+### [AI Stylist](https://github.com/MaximB0nd/ai-stylist) · лид проекта
+Веду проект и отвечаю за продакт-менеджмент, дизайн и frontend. Работала над страницей генерации, профилем, общей сеткой и визуальными стилями. [Мои pull requests](https://github.com/MaximB0nd/ai-stylist/pulls?q=is%3Apr+author%3Akiolymi).
 
 ### [НейроЭксперт / AI Checker](https://github.com/sqtwix/ai-checker) · командный проект
 Платформа для анализа результатов тестирования. Мой вклад — исправления локального анализа и отчётов, включая навигацию и экспорт PDF. [Коммит](https://github.com/sqtwix/ai-checker/commit/8255742dbbf41c00078d25d9db483336bf075340).
