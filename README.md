@@ -8,13 +8,10 @@
 [Смотреть лендинг](https://kiolymi.github.io/SimpleCRM_Landing/)
 
 ### [AI Stylist](https://github.com/MaximB0nd/ai-stylist) · лид проекта
-Веду проект и отвечаю за продакт-менеджмент, дизайн и frontend. Работала над страницей генерации, профилем, общей сеткой и визуальными стилями. [Мои pull requests](https://github.com/MaximB0nd/ai-stylist/pulls?q=is%3Apr+author%3Akiolymi).
+Веду проект и отвечаю за продакт-менеджмент, дизайн и frontend.
 
 ### [НейроЭксперт / AI Checker](https://github.com/sqtwix/ai-checker) · командный проект
-Платформа для анализа результатов тестирования. Мой вклад — исправления локального анализа и отчётов, включая навигацию и экспорт PDF. [Коммит](https://github.com/sqtwix/ai-checker/commit/8255742dbbf41c00078d25d9db483336bf075340).
-
-### [MuseumApp](https://github.com/kiolymi/MuseumApp)
-Настольное приложение на WPF и PostgreSQL: каталог, билеты, формы редактирования и доступ по ролям.
+Платформа для анализа результатов тестирования. 
 
 ## Командные проекты с закрытым кодом
 
